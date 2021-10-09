@@ -1,0 +1,19 @@
+name: analize-images
+
+channels:
+    - default
+    - conda-forge
+
+dependencies:
+    - python=3.7.9
+    - numpy
+    - scipy
+    - pandas
+    - xlrd # to read .xls files from Pandas
+    - openpyxl # to read .xlsx files from Pandas
+    - matplotlib
+    - seaborn
+    - jupyterlab>=3
+    - pycodestyle
+    - pydocstyle
+    - pylint
