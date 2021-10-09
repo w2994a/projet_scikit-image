@@ -26,3 +26,9 @@ Choisir un canal (par exemple le bleu) et extraire les principaux objets :
     - Données : [Image de microscopie](https://www.google.com/url?q=https://imagej.nih.gov/ij/images/FluorescentCells.zip&sa=D&source=editors&ust=1633783812782000&usg=AOvVaw1gjAX3HNO-8Gs2sHoEkJc6).
 - Autres resources :
     - site web de la bibliothèque [scikit-image](https://scikit-image.org)
+
+- liens utiles :
+    - [guide Markdown](https://medium.com/analytics-vidhya/the-ultimate-markdown-guide-for-jupyter-notebook-d5e5abf728fd)
+    - [anaconda.org](https://anaconda.org/)
+    - [Doc officiel Python](https://docs.python.org/3/)
+    - [Doc des projets de base de SciPy Stack](https://www.scipy.org/docs.html)
