@@ -24,7 +24,7 @@ Choisir un canal (par exemple le bleu) et extraire les principaux objets :
     - Vidéo Scipy 2019 : [Image Analysis in Python with SciPy and Scikit Image](https://www.youtube.com/watch?v=d1CIV9irQAY).
     - TD d’analyse d’image de microscopie : [TD Caltech](https://bi1.caltech.edu/code/t04_quantitative_image_processing.html).
     - Données : [Image de microscopie](https://www.google.com/url?q=https://imagej.nih.gov/ij/images/FluorescentCells.zip&sa=D&source=editors&ust=1633783812782000&usg=AOvVaw1gjAX3HNO-8Gs2sHoEkJc6).
-- Autres resources :
+- Autres ressources :
     - site web de la bibliothèque [scikit-image](https://scikit-image.org)
     - site web : (https://scipy-lectures.org/packages/scikit-image/index.html)
     - [mode d'emploi (scikit-image dev team)](https://scikit-image.org/docs/stable/user_guide.html)
