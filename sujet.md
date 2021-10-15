@@ -34,5 +34,7 @@ Choisir un canal (par exemple le bleu) et extraire les principaux objets :
 - liens utiles :
     - [guide Markdown](https://medium.com/analytics-vidhya/the-ultimate-markdown-guide-for-jupyter-notebook-d5e5abf728fd)
     - [anaconda.org](https://anaconda.org/)
-    - [Doc officiel Python](https://docs.python.org/3/)
+    - [Doc officielle Python](https://docs.python.org/3/)
     - [Doc des projets de base de SciPy Stack](https://www.scipy.org/docs.html)
+    - [Doc de JupyterLab](https://jupyterlab.readthedocs.io/en/stable/)
+    
