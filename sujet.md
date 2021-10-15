@@ -27,6 +27,9 @@ Choisir un canal (par exemple le bleu) et extraire les principaux objets :
 - Autres resources :
     - site web de la bibliothèque [scikit-image](https://scikit-image.org)
     - site web : (https://scipy-lectures.org/packages/scikit-image/index.html)
+    - [mode d'emploi (scikit-image dev team)](https://scikit-image.org/docs/stable/user_guide.html)
+    - [forum sur image.sc](https://forum.image.sc/tag/scikit-image)
+    - [publication (van der Walt *et al*., 2014)](http://dx.doi.org/10.7717/peerj.453)
 
 - liens utiles :
     - [guide Markdown](https://medium.com/analytics-vidhya/the-ultimate-markdown-guide-for-jupyter-notebook-d5e5abf728fd)
