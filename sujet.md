@@ -25,11 +25,13 @@ Choisir un canal (par exemple le bleu) et extraire les principaux objets :
     - TD d’analyse d’image de microscopie : [TD Caltech](https://bi1.caltech.edu/code/t04_quantitative_image_processing.html).
     - Données : [Image de microscopie](https://www.google.com/url?q=https://imagej.nih.gov/ij/images/FluorescentCells.zip&sa=D&source=editors&ust=1633783812782000&usg=AOvVaw1gjAX3HNO-8Gs2sHoEkJc6).
 - Autres ressources :
+    - [GitHub de scikit-image](https://github.com/scikit-image)
     - site web de la bibliothèque [scikit-image](https://scikit-image.org)
     - site web : (https://scipy-lectures.org/packages/scikit-image/index.html)
     - [mode d'emploi (scikit-image dev team)](https://scikit-image.org/docs/stable/user_guide.html)
     - [forum sur image.sc](https://forum.image.sc/tag/scikit-image)
     - [publication (van der Walt *et al*., 2014)](http://dx.doi.org/10.7717/peerj.453)
+    - [stackoverflow [scikit-image]](https://stackoverflow.com/questions/tagged/scikit-image)
 
 - liens utiles :
     - [guide Markdown](https://medium.com/analytics-vidhya/the-ultimate-markdown-guide-for-jupyter-notebook-d5e5abf728fd)
@@ -37,4 +39,3 @@ Choisir un canal (par exemple le bleu) et extraire les principaux objets :
     - [Doc officielle Python](https://docs.python.org/3/)
     - [Doc des projets de base de SciPy Stack](https://www.scipy.org/docs.html)
     - [Doc de JupyterLab](https://jupyterlab.readthedocs.io/en/stable/)
-    
