@@ -1,4 +1,4 @@
-name: analize-images
+name: analyze-images
 
 channels:
     - default
