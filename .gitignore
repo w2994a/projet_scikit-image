@@ -11,3 +11,5 @@ __pycache__
 *.tsv
 *.png
 *.pdf
+*.tif
+*.zip
