@@ -9,7 +9,6 @@ __pycache__
 *.xlsx
 *.txt
 *.tsv
-*.png
 *.pdf
 *.tif
 *.zip
