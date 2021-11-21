@@ -18,3 +18,4 @@ dependencies:
     - pycodestyle
     - pydocstyle
     - pylint
+    - plotly
