@@ -5,15 +5,12 @@ channels:
     - conda-forge
 
 dependencies:
-    - python=3.7.9
+    - python=3.8.11
     - numpy
     - scipy
     - scikit-image
     - pandas
-    - xlrd # to read .xls files from Pandas
-    - openpyxl # to read .xlsx files from Pandas
     - matplotlib
-    - seaborn
     - jupyterlab>=3
     - ipywidgets
     - pycodestyle
