@@ -10,14 +10,14 @@ Vous pouvez lancer les notebooks du tutoriel avec Binder
 
 
 Il y a 2 notebooks jupyter dans le répertoire `notebook` :  
-- `intro.ipynb` : Introduction au tutoriel. Cette intro présente comment est encodée une image (en particulier en Python), ainsi que l'intérêt d'utiliser le format TIFF pour des images de microscopie. Il vous présente également, les fonction du module scikit-image que l'on utilisera pour le tutoriel et les références qui nous ont permis de créer ce petit tutoriel.  
+- `intro.ipynb` : Introduction au tutoriel. Cette introduction présente comment est encodée une image (en particulier en Python), ainsi que l'intérêt d'utiliser le format TIFF pour des images de microscopie. Il vous présente également, les fonctions du module scikit-image que l'on utilisera pour le tutoriel et les références qui nous ont permis de créer ce petit tutoriel.  
 
 - `demo.ipynb` : Tutoriel d'utilisation du module scikit-image. Ce tutoriel vous guide pas à pas, pour détecter, analyser et réaliser des mesures sur les noyaux d'une image de microscopie photonique à épifluorescence.
 
 ---
 ## Manipulation des notebooks sur votre pc local
 
-1. Assurrez-vous d'avoir une une installation miniconda ou anaconda (à l'aide de la commande : `conda --version`) et le logiciel de gestion de version Git. Si ce n'est pas le cas procéder à une installation de `conda` ([Miniconda](https://docs.conda.io/en/latest/miniconda.html) • [Anaconda](https://www.anaconda.com/products/individual)) et/ou de `Git` ([Git](https://git-scm.com/downloads)) 
+1. Assurrez-vous d'avoir une installation miniconda ou anaconda (à l'aide de la commande : `conda --version`) et le logiciel de gestion de version Git. Si ce n'est pas le cas procéder à une installation de `conda` ([Miniconda](https://docs.conda.io/en/latest/miniconda.html) • [Anaconda](https://www.anaconda.com/products/individual)) et/ou de `Git` ([Git](https://git-scm.com/downloads)) 
 
 2. Clonez le dépôt du tutoriel :  
 ```
